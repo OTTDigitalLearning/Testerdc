@@ -192,7 +192,7 @@ ul, .list.custom-list ul {
 }
 .list.custom-list ul li a {
 	font: 14px/1.2em 'Roboto', sans-serif;
-	color: #030E3C;
+	color: #000000;
 	text-transform: none;
 	display: inline;
 	position: relative;
@@ -227,7 +227,7 @@ ul, .list.custom-list ul {
 	top: -100px;
 }
 .navbar-inverse {
-	background: #030E3C;
+	background: #000000;
 }
 .navbar-inverse {
 	border: none;
@@ -498,7 +498,7 @@ footer {
 	color: #ae130c;
 }
 .footer2 {
-	background: #030E3C;
+	background: #000000;
 	padding: 15px 0;
 	color: #FFF;
 	font-size: 12px;
@@ -757,11 +757,11 @@ nav#filter a {
 	line-height: 20px;
 	text-decoration: none;
 	color: #EFE204;
-	background: #030E3C;
+	background: #000000;
 }
 nav#filter a.current {
 	background: #EFE204;
-	color: #030E3C;
+	color: #000000;
 }
 .iconColor .fa {
 	color: #ee0c45;
