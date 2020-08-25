@@ -125,7 +125,7 @@ label {
 	height: 100%;
 	left: 0;
 	right: 0;
-	top: 0;
+	top: 0;ca
 	z-index: 0;
 }
 #camera_wrap_4 {
@@ -242,7 +242,7 @@ ul, .list.custom-list ul {
 	color: #FFFFFF !important;
 }
 .navbar-inverse .navbar-nav > .active > a {
-	color: #EFE204;
+	color: #86BC25;
 	border-radius: 5px;
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .open ul > a {
@@ -358,7 +358,7 @@ img.pull-left {
 }
 
 .cuadro_intro_hover .blur {
-    background-color: rgba(3, 14, 60, 0.81);
+    background-color: rgba(0, 0, 0, 0.70);
     height: 300px;
     z-index: 5;
     position: absolute;
@@ -423,7 +423,7 @@ img.pull-left {
 	display: inline-block;
 	color: #030E3C;
 	border: solid 2px #030E3C;
-	background: #EFE204;
+	background: #86BC25;
 	padding: 0px;
 	border-radius: 50px;
 	width: 24px;
@@ -611,7 +611,7 @@ margin-bottom: -40px;
     color: #fff;
 }
 .search-panel .btn{
-background-color: #EFE204;
+background-color: #86BC25;
 }
 .search-panel .form-group {
     margin: 0 5px 20px 5px;
@@ -655,8 +655,8 @@ background-color: #EFE204;
 }
 .checkbox.custom-checkbox input:checked+span,
 .radio.custom-radio input:checked+span {
-    background-color: #EFE204;
-    border-color: #EFE204;
+    background-color: #86BC25;
+    border-color: #86BC25;
 }
 .checkbox.custom-checkbox input[disabled]+span,
 fieldset[disabled] .checkbox.custom-checkbox input+span,
